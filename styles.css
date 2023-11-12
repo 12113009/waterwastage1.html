@@ -1,0 +1,381 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    font-size: 30px;
+    font-family: "Roboto";
+    color:white;
+    text-align: center;
+    font-weight: bold;
+
+}
+.para1{
+    font-size: 20px;
+    font-family: "Roboto";
+    color:white;
+    text-align: center;
+
+}
+.home-container{
+    background-image: url("https://as1.ftcdn.net/v2/jpg/05/13/07/62/1000_F_513076246_oX9ju641gJrjkB2sLeZEIEhkR9WG0dob.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
+.card1{
+    background-color:transparent;
+    height: 50%;
+    width: 50%;
+    text-align: 40%;
+    margin-top: 200px;
+
+    
+
+}
+.button1{
+    height: 50px;
+    width: 120px;
+    background-color: green;
+    font-family: "Roboto";
+    font-size: 18px; 
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: center;
+    color: white;
+   
+
+}
+.t1{
+    margin-top: 60px;
+}
+
+
+ .follow-us-section {
+    background-color: white;
+  }
+  .follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .button2{
+    height: 50px;
+    width: 120px;
+    background-color: green;
+    font-family: "Roboto";
+    font-size: 18px; 
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 7px;
+    color: white;
+   
+
+}
+.button2{
+    height:40px;
+    width: 120px;
+    background-color: purple;
+    font-family: "Roboto";
+    font-size: 18px; 
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 7px;
+    color: white;
+   
+
+}
+.button2{
+    height: 40px;
+    width: 120px;
+    background-color:purple;
+    font-family: "Roboto";
+    font-size: 18px; 
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 7px;
+    color: white;
+   
+
+}
+.button2{
+    height: 40px;
+    width: 120px;
+    background-color:purple;
+    font-family: "Roboto";
+    font-size: 18px; 
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 7px;
+    color: white;
+   
+
+}
+.button2{
+    height: 40px;
+    width: 120px;
+    background-color:purple;
+    font-family: "Roboto";
+    font-size: 18px; 
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left:7px;
+    color: white;
+   
+
+}
+.box1{
+    margin-left:53%;
+    margin-bottom: 1%;
+}
+.abouts{
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-style: italic;
+
+}
+.back_button{
+    height: 50px;
+    width: 120px;
+    background-color:yellowgreen;
+    font-family: "Roboto";
+    font-size: 18px; 
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: center;
+    color: white;
+
+}
+.para2{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-style: normal;
+}
+.box2{
+    margin-left: 3%;
+}
+.take-action{
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+}
+.take-action{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/climate-change-concept-collage_23-2149129759.jpg?w=1480&t=st=1699635521~exp=1699636121~hmac=64dbcce87ae3ac3b299f28d04533e30119d398c5ed25dd9f57c10a6c7a7c0111");
+    height:100vh;
+    background-size: cover;
+
+}
+.follow_heading{
+
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 700;
+
+}
+.icons_Items{
+    height: 50px;
+    width: 60px;
+    border: 0px;
+    background-color:#faf7e8;
+    margin: 5px;
+    border-radius: 10px;
+
+    
+}
+#twitter_1{
+    font-size: 25px;
+    color: rgb(10, 136, 199);
+    padding-left: 22px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 22px;
+   
+}
+#insta_1{
+    font-size: 25px;
+    color: #ff99dd;
+    padding-left: 22px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 22px;
+ 
+}
+#face_1{
+    font-size: 23px;
+    color:rgb(73, 73, 235);
+    padding-left: 22px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 22px;
+
+}
+.follow_123{
+    margin-left: 45%;
+
+}
+.cont_us{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 700;
+
+}
+.half_1{
+    font-size: 19px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+.take1{
+    font-size:23px ;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+.view_image1{
+    height: 250px;
+    width: 250px;
+}
+.cont_img1{
+    height: 300px;
+    width: 250px;
+    background-color:whitesmoke;
+
+
+}
+
+
+.cont_img12{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(255, 255, 255);
+    margin-left:33%;
+
+
+}
+.view_class{
+
+    font-size: 20px;
+    font-family: "Roboto";
+    color: blue;
+}
+.cont234{
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+   
+}
+.card123{
+    margin-left: 33%;
+}
+.back_button1{
+    height: 50px;
+    width: 120px;
+    background-color:yellowgreen;
+    font-family: "Roboto";
+    font-size: 18px; 
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left:33%;
+    color: white;
+
+}
+.abouts1{
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+
+}
+.para123{
+    font-size: 18px;
+    font-style: italic;
+    columns: rgb(219, 218, 218);
+    margin-left: 4%;
+}
+.fix-leaks1{
+    color:black;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 800;
+    margin-left: 2%;
+}
+.get_headings{
+    font-size: 26px;
+    font-family:"Roboto";
+    font-weight: 600;
+    color: rgb(77, 77, 239);
+    text-align: center;
+}
+.para1234{
+    font-size: 18px;
+    font-style:normal;
+    columns: rgb(219, 218, 218);
+    margin-left: 4%;
+}
+.tips_head12{
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,50%);
+    width: 500px;
+    background-color: white;
+}
+.tips_head12 input{
+    width: 100%;
+    height: 50px;
+    padding: 0 20px;
+    margin-bottom:15px ;
+
+
+}
+.tips_head12 textarea{
+    width: 100%;
+    height: 150px;
+    padding: 15px 20px;
+    margin-bottom:15px ;
+}
+.sub_button{
+    height: 50px;
+    width: 100px;
+    border: 0px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.tips_s1{
+    font-size: 25px;
+    font-family:"Roboto";
+    font-weight: 600;
+    text-align: center;
+}
+.tips_para{
+    font-size: 20px;
+    font-family:"Roboto";
+    font-weight: 500;
+    color: rgb(164, 160, 160);
+}
